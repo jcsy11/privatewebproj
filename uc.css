@@ -1,0 +1,31 @@
+body.is-modalOpen .overlay-container, body.is-modalOpen .offCanvasMenu {
+display: none!important;
+}
+
+.is-modalOverlayOpen .p-pageWrapper, .j_fd_wrapper>.division .part.structItem--thread {
+filter: none;
+}
+
+body.is-modalOpen {
+overflow: visible!important;
+}
+
+.imgblur>.c {
+filter: none;
+}
+
+.imgblur p {
+display: none;
+}
+
+.overlay-container samOverlay samOverlayDisableClose samOverlay_15 is-active {
+display: none;
+}
+
+.overlay-container.is-active {
+display: none!important;
+}
+
+.is-modalOverlayOpen .p-pageWrapper {
+filter: none!important;
+}
